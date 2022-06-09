@@ -16,7 +16,7 @@
 </p>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=michaelyuhe&show_icons=true&locale=en&layout=compact&hide=html" alt="michaelyuhe" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=michaelyuhe&show_icons=true&locale=en&layout=compact&hide=html" alt="michaelyuhe" /></p>
 
 <br/>
 
