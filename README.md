@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm MichaelYuhe</h1>
 <h3 align="center">A self-taught frontend developer from China.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=michaelyuhe&label=Profile%20views&color=0e75b6&style=flat" alt="michaelyuhe" /> </p>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   Email: xiayuhang1106@gmail.com
@@ -25,3 +23,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=michaelyuhe&show_icons=true&locale=en" alt="michaelyuhe" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=michaelyuhe&" alt="michaelyuhe" /></p>
+
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=michaelyuhe&label=Profile%20views&color=0e75b6&style=flat" alt="michaelyuhe" /> </p>
