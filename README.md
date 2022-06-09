@@ -5,6 +5,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+  Email: xiayuhang1106@gmail.com
+  Wechat: XYuhe1106
+  Twitter: Coooolxyh
+  Telegram: Michael_Yuhe
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
