@@ -6,9 +6,15 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   Email: xiayuhang1106@gmail.com
+</p>
+<p align="left">  
   Wechat: XYuhe1106
-  Twitter: Coooolxyh
+</p>
+<p align="left">  
   Telegram: Michael_Yuhe
+</p>
+<p align="left">  
+  Twitter: Coooolxyh
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
