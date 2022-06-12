@@ -3,8 +3,6 @@
 
 - 🌱 I’m currently learning **React, TypeScript and Flutter**
 
-- 👯 I’m looking to collaborate on **Career Planning**
-
 - 👨‍💻 All of my projects are available at [I will create my own website this summer !](I will create my own website this summer !)
 
 - 📫 How to reach me **xiayuhang1106@gmail.com**
