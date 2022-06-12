@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm MichaelYuhe</h1>
 <h3 align="center">A self-taught frontend developer from China.</h3>
+
 - 🌱 I’m currently learning **React, TypeScript and Flutter**
 
 - 👯 I’m looking to collaborate on **Career Planning**
