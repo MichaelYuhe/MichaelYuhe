@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **React, TypeScript and Three.js**
 
-- 👨‍💻 All of my projects are available at [MichaelYuhe.app](https://my-website-michaelyuhe.vercel.app)
+- 👨‍💻 All of my projects are available at [MichaelYuhe](https://my-website-michaelyuhe.vercel.app)
 
 - 📫 How to reach me **xiayuhang1106@gmail.com**
 
