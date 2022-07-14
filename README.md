@@ -7,7 +7,6 @@
 
 - 📫 How to reach me **xiayuhang1106@gmail.com**
 
-- busy...
 
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=michaelyuhe&show_icons=true&locale=en&layout=compact&hide=html" alt="michaelyuhe" /></p>
