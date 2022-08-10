@@ -8,9 +8,6 @@
 - 📫 How to reach me **xiayuhang1106@gmail.com**
 
 
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=michaelyuhe&show_icons=true&locale=en&layout=compact&hide=html" alt="michaelyuhe" /></p>
-
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=michaelyuhe&show_icons=true&locale=en&count_private=true" alt="michaelyuhe" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=michaelyuhe&" alt="michaelyuhe" /></p>
