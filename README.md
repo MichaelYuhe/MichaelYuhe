@@ -7,6 +7,4 @@
 
 - 💼 Interning at Zoom currently.
 
-- 😀 Enjoy exploring new technology and developing interesting little projects.
-
 - 👀 **Looking for job opportunities!**
