@@ -8,3 +8,4 @@
 - 📫 How to reach me **xiayuhang1106@gmail.com**.
 
 - 💼 Interning at Zoom.
+- 😀 Enjoy exploring new technology and developing interesting little projects.
