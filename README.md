@@ -9,4 +9,4 @@
 
 - 👀 **Looking for job opportunities!**
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=michaelyuhe)](https://github.com/michaelyuhe/github-readme-stats)
+![MichaelYuhe's GitHub stats](https://github-readme-stats.vercel.app/api?username=michaelyuhe)
