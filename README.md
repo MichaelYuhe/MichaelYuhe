@@ -3,7 +3,7 @@
 
 - 🌱 React | React-Native | Vue | TypeScript | JavaScript.
 
-- 📫 How to reach me: **xiayuhang1106@gmail.com**.
+- 📫 How to reach me: **xiayuhang1106@gmail.com** WeChat: XYuhe1106.
 
 - 💼 Interning at Zoom currently.
 
