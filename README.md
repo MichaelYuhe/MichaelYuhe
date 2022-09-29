@@ -11,4 +11,3 @@
 
 ![MichaelYuhe's GitHub stats](https://github-readme-stats.vercel.app/api?username=michaelyuhe)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=michaelyuhe&layout=compact&hide=html)
