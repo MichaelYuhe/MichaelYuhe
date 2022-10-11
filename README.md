@@ -5,8 +5,6 @@
 
 - 📫 How to reach me: **xiayuhang1106@gmail.com** 
 
-- 💼 Interning at Zoom currently.
-
 - 👀 **Looking for job opportunities!**
 
 ![MichaelYuhe's GitHub stats](https://github-readme-stats.vercel.app/api?username=michaelyuhe)
