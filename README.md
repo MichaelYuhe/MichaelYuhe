@@ -7,5 +7,5 @@
 
 - 👀 **Looking for job opportunities!**
 
-![MichaelYuhe's GitHub stats](https://github-readme-stats.vercel.app/api?username=michaelyuhe)
+![MichaelYuhe's GitHub stats](https://github-readme-stats.vercel.app/api?username=michaelyuhe&countPrivate=true)
 
