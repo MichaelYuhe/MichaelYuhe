@@ -7,5 +7,5 @@
 
 - 💻 Working on [**Zeabur**](https://github.com/zeabur)
 
-- 👀 **Looking for job opportunities!**
+- 📖 Graduating from Zhejiang University in 2023.6
 
