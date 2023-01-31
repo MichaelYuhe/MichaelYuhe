@@ -7,5 +7,3 @@
 
 - 💻 Working on [**Zeabur**](https://github.com/zeabur)
 
-- 📖 Graduating from Zhejiang University in 2023.6
-
