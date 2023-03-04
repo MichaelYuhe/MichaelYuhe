@@ -5,4 +5,4 @@
 
 - 💻 [**Zeabur**](https://github.com/zeabur) Co-Founder.
 
-- 📮 Contact: Email: xiayuhang1106@gmail.com | WeChat: XYuhe1106
+- 📮 Contact: Email: xiayuhang1106@gmail.com
