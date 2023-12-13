@@ -10,4 +10,3 @@
 
 - 📮 Contact: Email: xiayuhang1106@gmail.com
 
-<a href="https://www.buymeacoffee.com/MichaelYuhe" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
